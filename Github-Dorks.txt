@@ -1,0 +1,133 @@
+Github Dorks for Finding Files
+
+
+filename:mainfest.xml
+filename:travis.yml
+filename:vim_settings.xml
+filename:database
+filename:prod.exs
+filename:prod.secret.exs
+filename:.npmrc_auth
+filename:.dockercfg
+filename:WebServers.xml
+filename:.bash_history
+filename:sftp-config.json
+filename:sftp.json
+filename:secrets.yml
+filename:passwd
+filename:LocalSettings.php
+filename:config.php
+filename:config.inc.php
+filename:prod.secret.exs
+filename:configuration.php
+filename:.sh_history
+filename:shadow
+filename:proftpdpasswd
+filename:.pgpass
+filename:idea14.key
+filename:hub
+filename:.bash_profile
+filename:.env
+filename:wp-config.php
+filename:credentials
+filename:id_rsa
+filename:id_dsa
+filename:.ovpn
+filename:.cscfg
+filename:.rdp
+filename:.mdf
+filename:.sdf
+filename:.sqlite
+filename:.psafe3
+filename:secret_token.rb
+filename:carrierwave.rn
+filename:database.yml
+filename:.keychain
+filename:.kwallet
+filename:.exports
+filename:config.yaml
+filename:settings.py
+filename:credentials.xml
+
+Github Dorks for Finding API Keys,Tokens and Passwords
+
+api_key
+authorization_bearer:
+oauth
+auth
+authentication
+client_secret
+api_tokens:
+client_id
+OTP
+HOMEBREW_GITHUB_API_TOKEN
+SF_USERNAME
+HEROKU_API_KEY
+JEKYLL_GITHUB_TOKEN
+shodan_api_key
+api.forecast.io
+password
+user_password
+user_pass
+passcode
+client_secret
+secret
+password hash
+user auth
+
+
+CCTV
+
+
+inurl:”CgiStart?page=”
+inurl:/view.shtml
+intitle:”Live View / – AXIS
+inurl:view/view.shtml
+inurl:ViewerFrame?Mode=
+inurl:ViewerFrame?Mode=Refresh
+inurl:axis-cgi/jpg
+inurl:axis-cgi/mjpg (motion-JPEG) (disconnected)
+inurl:view/indexFrame.shtml
+inurl:view/index.shtml
+inurl:view/view.shtml
+camera linksys inurl:main.cgi
+Canon Webview netcams
+inurl:view/view.shtml
+inurl:/view.shtml
+intitle:”Live View / - AXIS” | inurl:view/view.shtml^
+inurl:ViewerFrame?Mode=
+inurl:ViewerFrame?Mode=Refresh
+inurl:axis-cgi/jpg
+inurl:axis-cgi/mjpg (motion-JPEG)
+inurl:view/indexFrame.shtml
+inurl:view/index.shtml
+intitle:start inurl:cgistart
+intitle:”live view” intitle:axis
+intitle:snc-z20 inurl:home/
+intitle:liveapplet
+intitle:”i-Catcher Console - Web Monitor”
+intitle:axis intitle:”video server”
+intitle:liveapplet inurl:LvAppl
+intitle:”EvoCam” inurl:”webcam.html”
+intitle:”Live NetSnap Cam-Server feed”
+intitle:”Live View / - AXIS”
+intitle:”Live View / - AXIS 206W”
+intitle:”Live View / - AXIS 210″
+inurl:indexFrame.shtml Axis
+intitle:”Live View / - AXIS 206M”
+inurl:”MultiCameraFrame?Mode=Motion”
+allintitle:”Network Camera NetworkCamera”
+intitle:”WJ-NT104 Main Page”
+intext:”MOBOTIX M1″ intext:”Open Menu”
+intext:”MOBOTIX M10″ intext:”Open Menu”
+intext:”MOBOTIX D10″ intext:”Open Menu”
+intitle:”netcam live image”
+intitle:snc-cs3 inurl:home/
+intitle:snc-rz30 inurl:home/
+intitle:”sony network camera snc-p1″
+intitle:”sony network camera snc-m1″
+site:.viewnetcam.com -www.viewnetcam.com
+intitle:”Toshiba Network Camera” user login
++ View Webcam User Accessing
+allinurl:control/multiview
+intitle:”supervisioncam protocol”
