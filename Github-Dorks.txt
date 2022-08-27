@@ -1,4 +1,4 @@
-Github Dorks for Finding Files
+#Github Dorks for Finding Files
 
 
 filename:mainfest.xml
@@ -49,7 +49,7 @@ filename:config.yaml
 filename:settings.py
 filename:credentials.xml
 
-Github Dorks for Finding API Keys,Tokens and Passwords
+#Github Dorks for Finding API Keys,Tokens and Passwords
 
 api_key
 authorization_bearer:
@@ -76,7 +76,7 @@ password hash
 user auth
 
 
-CCTV
+#CCTV
 
 
 inurl:”CgiStart?page=”
